@@ -23,7 +23,10 @@ typedef enum
 }BufStatus;
 #endif
 
-
+/**
+ * @brief Abstract data type for a stack
+ * 
+ */
 typedef struct stack_t* Stack;
 
 
